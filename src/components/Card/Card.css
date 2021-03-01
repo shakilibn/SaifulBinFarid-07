@@ -1,0 +1,12 @@
+.player{
+    width:300px;
+    text-align:center;
+    margin:10px;
+    padding:10px;
+    border-radius: 5px;
+    display:inline-block;
+    box-shadow: 4px 4px 8px rgb(165, 160, 160);
+}
+.player img {
+    height:180px;
+}
